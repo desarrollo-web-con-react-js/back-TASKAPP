@@ -16,6 +16,9 @@
       }
     ],
     "rewrites": [
-      { "source": "/404", "dest": "/NotFoundPage" }
+      { 
+        "src": "/404", 
+        "dest": "/NotFoundPage" 
+      }
     ]
   }
