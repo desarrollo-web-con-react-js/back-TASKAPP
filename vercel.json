@@ -14,5 +14,8 @@
         "src": "/(.*)",
         "dest": "server.js"
       }
+    ],
+    "rewrites": [
+      { "source": "/404", "destination": "/NotFoundPage" }
     ]
   }
