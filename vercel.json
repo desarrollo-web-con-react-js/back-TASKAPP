@@ -17,7 +17,7 @@
     ],
     "rewrites": [
       { 
-        "src": "/404", 
+        "src": "/(.*)",
         "dest": "/NotFoundPage" 
       }
     ]
