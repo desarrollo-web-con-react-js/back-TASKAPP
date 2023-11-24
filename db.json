@@ -68,7 +68,7 @@
       "titulo": "Pruebas de rendimiento y estabilidad del sistema",
       "descripcion": "Realizar pruebas exhaustivas para garantizar el rendimiento y la estabilidad del sistema en diversas situaciones",
       "tiempo": 11,
-      "imagen": "https://img.medicalexpo.es/images_me/photo-m2/104219-17849575.jpg",
+      "imagen": "https://img.freepik.com/vector-gratis/ilustracion-desarrollo-aplicaciones_52683-47931.jpg",
       "responsable": "Christopher Lee",
       "estado": "Completada"
     },
@@ -130,7 +130,7 @@
       "titulo": "Estructura web Semántica, responsive",
       "descripcion": "Revisar la estructura web Semántica, responsive.",
       "tiempo": 2,
-      "imagen": "https://i.pinimg.com/564x/d6/19/a6/d619a64645bf2cbf8f32f9063cf29ac5.jpg",
+      "imagen": "https://img.freepik.com/vector-gratis/ilustracion-concepto-responsive_114360-674.jpg",
       "responsable": "yo",
       "estado": "Completada",
       "id": 27
@@ -175,7 +175,7 @@
       "titulo": "Desarrollar un servicio para datos personales del cliente",
       "descripcion": "Como usuario se requiere un servicio que me brinde los datos personales del cliente",
       "tiempo": 123,
-      "imagen": "https://i.pinimg.com/564x/47/1d/a4/471da4cc83427dbc2882d07c1aea09c3.jpg",
+      "imagen": "https://img.freepik.com/vector-gratis/ilustracion-concepto-micrositios_114360-7402.jpg",
       "responsable": "Jane Doe",
       "estado": "Completada",
       "id": 39
@@ -183,7 +183,7 @@
     {
       "titulo": "Desarrollar historial de compras",
       "descripcion": "Como administrador se requiere visualizar historial de compras. Diseñar, maquetar, aplicar lógica en el componente y testear.",
-      "tiempo": 42323,
+      "tiempo": 23,
       "imagen": "https://img.freepik.com/vector-gratis/banner-compras-linea-plantillas-aplicaciones-moviles-diseno-plano-concepto_1150-34862.jpg",
       "responsable": "John Doe",
       "estado": "En producción",
@@ -193,7 +193,7 @@
       "titulo": "Visualizar pedidos realizados",
       "descripcion": "Como usuario se requiere visualizar sus pedidos realizados",
       "tiempo": 32,
-      "imagen": "https://i.pinimg.com/564x/d6/19/a6/d619a64645bf2cbf8f32f9063cf29ac5.jpg",
+      "imagen": "https://img.freepik.com/vector-gratis/portatil-isometrico-carrito-compra-teclado_1262-16544.jpg",
       "responsable": "yo",
       "estado": "Completada",
       "id": 45
