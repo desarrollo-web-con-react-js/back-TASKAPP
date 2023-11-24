@@ -23,7 +23,7 @@
       "titulo": "Implementación de la API de pago",
       "descripcion": "Integrar una API de pago para permitir transacciones seguras y rápidas",
       "tiempo": 20,
-      "imagen": "https://images.yourstory.com/cs/1/b3cc3444ab5e11e88691f70342131e20/Whatissoftwareandtypesofsoftwarewithexamples1575272423828jpg",
+      "imagen": "https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg",
       "responsable": "Alex Smith",
       "estado": "Por hacer"
     },
@@ -32,7 +32,7 @@
       "titulo": "Diseño y desarrollo del front-end del panel de administración",
       "descripcion": "Crear un diseño atractivo y funcional para el panel de administración del sistema",
       "tiempo": 20,
-      "imagen": "https://images.yourstory.com/cs/1/b3cc3444ab5e11e88691f70342131e20/Whatissoftwareandtypesofsoftwarewithexamples1575272423828jpg",
+      "imagen": "https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg",
       "responsable": "James Brown",
       "estado": "POR HACER"
     },
