@@ -34,7 +34,7 @@
       "tiempo": 20,
       "imagen": "https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg",
       "responsable": "James Brown",
-      "estado": "POR HACER"
+      "estado": "Por hacer"
     },
     {
       "id": 5,
@@ -106,7 +106,7 @@
       "tiempo": 11,
       "imagen": "https://images.pexels.com/photos/4158/apple-iphone-smartphone-desk.jpg",
       "responsable": "Sophia Johnson",
-      "estado": "POR HACER"
+      "estado": "Por hacer"
     },
     {
       "id": 15,
@@ -115,7 +115,7 @@
       "tiempo": 11,
       "imagen": "https://images.pexels.com/photos/5926389/pexels-photo-5926389.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "responsable": "Matthew Smith",
-      "estado": "POR HACER"
+      "estado": "Por hacer"
     },
     {
       "id": 16,
