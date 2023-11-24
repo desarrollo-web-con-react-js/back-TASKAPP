@@ -5,7 +5,7 @@
       "titulo": "Desarrollo de la funcionalidad de autenticación",
       "descripcion": "Implementar la funcionalidad de autenticación utilizando tecnologías modernas de seguridad",
       "tiempo": 20,
-      "imagen": "https://images.yourstory.com/cs/1/b3cc3444ab5e11e88691f70342131e20/Whatissoftwareandtypesofsoftwarewithexamples1575272423828jpg",
+      "imagen": "https://img.freepik.com/vector-gratis/formulario-iniciar-sesion-colorido-creativo_23-2147727235.jpg",
       "responsable": "John Doe",
       "estado": "Completada"
     },
@@ -14,7 +14,7 @@
       "titulo": "Optimización de la base de datos",
       "descripcion": "Realizar una optimización exhaustiva de la base de datos para mejorar el rendimiento del sistema",
       "tiempo": 20,
-      "imagen": "https://images.yourstory.com/cs/1/b3cc3444ab5e11e88691f70342131e20/Whatissoftwareandtypesofsoftwarewithexamples1575272423828jpg",
+      "imagen": "https://img.freepik.com/vector-gratis/ilustracion-concepto-almacenamiento-memoria_114360-3446.jpg",
       "responsable": "Jane Doe",
       "estado": "Completada"
     },
@@ -86,7 +86,7 @@
       "titulo": "Optimización de la velocidad de carga del sitio web",
       "descripcion": "Mejorar la velocidad de carga del sitio web mediante la optimización de recursos y la implementación de prácticas recomendadas",
       "tiempo": 11,
-      "imagen": "https://img.medicalexpo.es/images_me/photo-m2/104219-17849575.jpg",
+      "imagen": "https://img.freepik.com/vector-gratis/ilustracion-api-diseno-plano-dibujado-mano_23-2149379500.jpg",
       "responsable": "Jessica Johnson",
       "estado": "Por testear"
     },
@@ -148,7 +148,7 @@
       "titulo": "Desarrollar header",
       "descripcion": "Crear Un Encabezado Fijo (Sticky Header)",
       "tiempo": 789,
-      "imagen": "https://i.pinimg.com/564x/1f/d1/af/1fd1afd69a093f610c2406da74e6c221.jpg",
+      "imagen": "https://img.freepik.com/vector-gratis/coleccion-banners-corporativos-coloridos_1051-1776.jpg",
       "responsable": "Homero Simpson",
       "estado": "Completada",
       "id": 31
@@ -157,7 +157,7 @@
       "titulo": "Desarrollar un CRUD de Rol",
       "descripcion": "Como administrador se requiere que la aplicación tenga un CRUD de Rol",
       "tiempo": 87,
-      "imagen": "https://i.pinimg.com/564x/1f/d1/af/1fd1afd69a093f610c2406da74e6c221.jpg",
+      "imagen": "https://img.freepik.com/vector-gratis/toda-ilustracion-concepto-datos_114360-4188.jpg",
       "responsable": "Bartolomeo Simpson",
       "estado": "Completada",
       "id": 33
@@ -166,7 +166,7 @@
       "titulo": " Crear un CRUD de Ventas",
       "descripcion": " Como administrador se requiere que la API tenga los Endpoints necesarios para un CRUD de Ventas",
       "tiempo": 9,
-      "imagen": "https://i.pinimg.com/564x/47/1d/a4/471da4cc83427dbc2882d07c1aea09c3.jpg",
+      "imagen": "https://img.freepik.com/vector-gratis/coleccion-iconos-planos-simbolos-linea-comprando-todo-mundo-e-shop-cesta-llena-pagando-entrega-domicilio_1284-33082.jpg",
       "responsable": "Juan Perez",
       "estado": "En producción",
       "id": 34
@@ -184,7 +184,7 @@
       "titulo": "Desarrollar historial de compras",
       "descripcion": "Como administrador se requiere visualizar historial de compras. Diseñar, maquetar, aplicar lógica en el componente y testear.",
       "tiempo": 42323,
-      "imagen": "https://i.pinimg.com/564x/d6/19/a6/d619a64645bf2cbf8f32f9063cf29ac5.jpg",
+      "imagen": "https://img.freepik.com/vector-gratis/banner-compras-linea-plantillas-aplicaciones-moviles-diseno-plano-concepto_1150-34862.jpg",
       "responsable": "John Doe",
       "estado": "En producción",
       "id": 43
